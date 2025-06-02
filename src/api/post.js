@@ -9,7 +9,6 @@ export const postApi = {
       params
     })
   },
-
   // 创建帖子
   createPost(data) {
     return request({
